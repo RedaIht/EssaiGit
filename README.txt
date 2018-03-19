@@ -9,3 +9,4 @@ some changee for diff
 some changes for the diff --cached
 
 just to make sure
+ changes for git add -u
