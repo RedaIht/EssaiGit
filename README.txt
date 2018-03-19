@@ -10,3 +10,4 @@ some changes for the diff --cached
 
 just to make sure
  changes for git add -u
+other changes for git add -u
